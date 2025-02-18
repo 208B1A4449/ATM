@@ -41,10 +41,12 @@ Exit: Return to the main menu or quit the application.
 
 📷 Demo
 
-📌 Add screenshots or a short video of the running application here.
+![Screenshot 2025-02-18 152503](https://github.com/user-attachments/assets/0370f354-4d83-483a-99db-df9a1f377080)
 
 🛠️ Future Enhancements
 
 🔹 Integrate SQLite/MySQL for Persistent Data Storage
-🔹 Graphical User Interface (GUI) with Tkinter/PyQt
+
+🔹 Graphical User Interface (GUI) with Django/Flask
+
 🔹 Online Banking Features
